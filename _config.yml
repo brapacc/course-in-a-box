@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /course-in-a-box
+baseurl: /sabato-italiano
 markdown: kramdown
 permalink: /:categories/:title/
 
