@@ -1,5 +1,6 @@
 ---
 title: L'opera San Francesco di Assisi
+published: true
 ---
 
 # ciao 
