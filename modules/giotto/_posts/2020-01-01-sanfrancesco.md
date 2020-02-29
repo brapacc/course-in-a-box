@@ -1,4 +1,4 @@
 ---
-title:Gli affreschi di San Francesco
+title: Gli affreschi di San Francesco
 ---
-#ciao
+# ciao
