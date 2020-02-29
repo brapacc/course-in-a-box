@@ -1,4 +1,3 @@
-
 ---
 title: L'opera San Francesco di Assisi
 ---
