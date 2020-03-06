@@ -1,5 +1,5 @@
 # basic configuration
-baseurl:
+baseurl: sabato-italiano
 markdown: kramdown
 permalink: /:categories/:title/
 
