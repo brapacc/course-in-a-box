@@ -20,4 +20,4 @@ Maestà di Santa Trinita, 1280–1285, Galleria degli Uffizi, Firenze.
 Maestà di Ognissanti, 1310, Galleria degli Uffizi, Firenze.
 
 <img src="http://www.bestflorencetours.com/wordpress/wp-content/uploads/2017/01/Giotto_Uffizi_Florence-768x1197.jpeg"
- width="250" height="350">
+ width="200" height="311">
