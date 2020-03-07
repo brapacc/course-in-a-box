@@ -1,4 +1,3 @@
-
 ---
 title: Il crocifisso
 ---
