@@ -2,7 +2,7 @@
 title: Gli affreschi di San Francesco ad Assisi
 published: true
 ---
-# LA Spoliazione
+# La Spoliazione
 
 <img src="https://www.lavoce.it/wp-content/uploads/2013/09/rinuncia-alle-vesti.jpg"
                          width="250" height="300">
