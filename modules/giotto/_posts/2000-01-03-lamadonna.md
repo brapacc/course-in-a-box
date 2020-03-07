@@ -9,7 +9,7 @@ Madonna col Bambino in trono e due angeli, 1230, Galleria degli Uffizi, Firenze
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Maestro_del_bigallo%2C_madonna_col_Bambino_e_due_angeli.jpg" 
-width="200" height="350">
+width="200" height="389">
 
 
 - Cimabue
