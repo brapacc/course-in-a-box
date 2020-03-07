@@ -5,7 +5,7 @@ published: true
 # LA Spoliazione
 
 <img src="https://www.lavoce.it/wp-content/uploads/2013/09/rinuncia-alle-vesti.jpg"
-                         width="200" height="300">
+                         width="250" height="300">
                          
 
 La Spoliazione - Storie di vita di San Francesco (1292-1296)
