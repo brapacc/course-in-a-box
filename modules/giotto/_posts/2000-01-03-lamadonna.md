@@ -4,7 +4,8 @@ title: La Madonna con bambino
 
 # La Madonna con bambino
 
-- Maestro del Bigallo
+- ### Maestro del Bigallo
+
 Madonna col Bambino in trono e due angeli, 1230, Galleria degli Uffizi, Firenze
 
 
@@ -12,13 +13,15 @@ Madonna col Bambino in trono e due angeli, 1230, Galleria degli Uffizi, Firenze
 width="200" height="389">
 
 
-- Cimabue
+- ### Cimabue
+
 Maestà di Santa Trinita, 1280–1285, Galleria degli Uffizi, Firenze.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg/800px-Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg" 
  width="200" height="358" >
  
-- Giotto 
+- ### Giotto 
+
 Maestà di Ognissanti, 1310, Galleria degli Uffizi, Firenze.
 
 
