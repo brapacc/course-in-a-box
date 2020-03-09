@@ -2,10 +2,13 @@
 title: Il crocifisso
 ---
 
-#  Confronto tra il Crocifisso di Cimabue e Giotto
+# Il maestro
+La tradizione fa discendere Giotto da Cimabue.
+Giorgio Vasari, nelle sue ''Vite de' piu' eccellenti architetti, pittori et scultori italiani'' (1550) racconta dell'incontro del tutto casuale tra Cimabue e il suo futuro allievo, all'epoca di appena dieci anni:  
 
-Cimabue era il maestro di Giotto, 
+'E cosi' avvenne che un giorno Cimabue, pittore celebratissimo, trovo' nella villa di Vespignano Giotto, il quale, in mentre le sue pecore pascevano, aveva tolto una lastra piana e pulita e, con un sasso un poco appuntato, ritraeva una pecora di naturale, senza esserli insegnato modo nessuno altro che dallo estinto della natura''. 
 
+##  Confronto tra il Crocifisso di Cimabue e Giotto
 
 
 ![crocifisso]({{site.baseurl}}/img/giotto-cimabue.png)
