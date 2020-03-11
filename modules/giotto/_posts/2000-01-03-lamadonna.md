@@ -6,6 +6,7 @@ title: La Madonna con bambino
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1583949927890!6m8!1m7!1s2WZZe_cOrvw-GLRmrj-7Ww!2m2!1d43.7686272!2d11.255917!3f115.61220790933415!4f4.001721362489604!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
+
 https://www.virtualuffizi.com/
 
 
