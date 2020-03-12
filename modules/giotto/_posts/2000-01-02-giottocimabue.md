@@ -2,7 +2,7 @@
 title: Il crocifisso
 ---
 
-## Il maestro
+*Il maestro*
 La tradizione fa discendere Giotto da Cimabue.
 Giorgio Vasari, nelle sue ''Vite de' piu' eccellenti architetti, pittori et scultori italiani'' (1550) racconta dell'incontro del tutto casuale tra Cimabue e il suo futuro allievo, all'epoca di appena dieci anni:  
 
