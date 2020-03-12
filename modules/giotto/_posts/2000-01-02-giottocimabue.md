@@ -9,7 +9,7 @@ In questa sezione :
    1. Quale è l'andamento dell'asse di simmetria?
    1. Cosa ti colpisce maggiormente del crocifisso di Giotto? 
    1. Le proporzioni della figura sono realistiche?
-   1.. La figura appare bidimensionale o tridimensionale? Perché?
+   1. La figura appare bidimensionale o tridimensionale? Perché?
 1. Scrivi le tue riflessioni nei commenti e confrontale con il testo "Il progressivo interesse per il naturalismo nella pittura medievale"
 
 ### Il maestro
