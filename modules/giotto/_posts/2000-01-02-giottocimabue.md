@@ -2,7 +2,7 @@
 title: Il crocifisso
 ---
 
-In questa unità :
+In questa sezione :
 1. Leggi la storia "Il Maestro"
 1. Confronta i due crocifissi, quello di Cimabue e quello otto, ricercandone le differenze
 1. Rifletti su queste domande
