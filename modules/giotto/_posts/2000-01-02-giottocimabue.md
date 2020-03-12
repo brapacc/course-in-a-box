@@ -18,3 +18,6 @@ width="300" height="200">
 
 Analizza le differenze del dipinto e verifica le tue osservazioni qui 
 (https://www.thinglink.com/scene/843514826633248768)
+
+
+<iframe width="640" height="360" src="https://www.loescher.it/librionline/risorse_forzaimmagine/download/w3264_figura_arte.pdf" frameborder="0" allowfullscreen></iframe>
