@@ -18,7 +18,7 @@ width="300" height="200">
 
 
 
-Analizza le differenze del dipinto e verifica le tue osservazioni [link to qui ](https://www.thinglink.com/scene/843514826633248768)
+Analizza le differenze del dipinto e verifica le tue osservazioni [qui](https://www.thinglink.com/scene/843514826633248768)
 
 
 
