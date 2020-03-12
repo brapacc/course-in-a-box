@@ -33,3 +33,5 @@ Maestà di Ognissanti, 1310, Galleria degli Uffizi, Firenze.
 
 <img src="http://www.bestflorencetours.com/wordpress/wp-content/uploads/2017/01/Giotto_Uffizi_Florence-768x1197.jpeg"
  width="200" height="311">
+
+{% include disqus.html %}
