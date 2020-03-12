@@ -20,6 +20,7 @@ title: L'osservazione
 
 ### I paesaggio e l'atmosfera
 
+<iframe width="640" height="360" src="{{site.baseurl}}/modules/paesaggio.pdf" frameborder="0" allowfullscreen></iframe>
 
 
 <iframe width="640" height="360" src="{{site.baseurl}}/modules/paesaggio.pdf" frameborder="0" allowfullscreen></iframe>
