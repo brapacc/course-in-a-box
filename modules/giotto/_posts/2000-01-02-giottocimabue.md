@@ -20,5 +20,5 @@ width="300" height="200">
 
 Analizza le differenze del dipinto e verifica le tue osservazioni [qui](https://www.thinglink.com/scene/843514826633248768)
 
-<iframe width="640" height="360" src="{{site.baseurl}}/img//w3264_rappr_figura_3.pdf" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="{{site.baseurl}}/modules/w3264_rappr_figura_3.pdf" frameborder="0" allowfullscreen></iframe>
 {{site.baseurl}}/img/start.jpg
