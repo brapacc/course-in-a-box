@@ -20,4 +20,5 @@ title: L'osservazione
 
 ### I paesaggio e l'atmosfera
 
-<iframe width="640" height="360" src="http://www.covaweb.it/scuola21/wp-content/uploads/2015/03/IL-PAESAGGIO-ITALIANO-NELLA-STORIA-DELLARTE.pdf" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.covaweb.it/scuola21/wp-content/uploads/2015/03/IL-PAESAGGIO-ITALIANO-NELLA-STORIA-DELLARTE.pdf" frameborder="0" allowfullscreen>
+</iframe>
