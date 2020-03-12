@@ -25,4 +25,4 @@ Analizza le differenze del dipinto e verifica le tue osservazioni [qui](https://
 
 <iframe width="640" height="360" src="w3264_rappr_figura_3.pdf" frameborder="0" allowfullscreen></iframe>
 
-![Cartina d'Italia](w3264_rappr_figura_3.pdf)
+![IL crocifisso](w3264_rappr_figura_3.pdf)
