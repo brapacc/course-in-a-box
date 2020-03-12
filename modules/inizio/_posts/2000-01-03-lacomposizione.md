@@ -9,6 +9,7 @@ title: L'osservazione
 
 Iconografia
 I capelli
+
  Gli occhi
   Il corpo
    I vestiti
