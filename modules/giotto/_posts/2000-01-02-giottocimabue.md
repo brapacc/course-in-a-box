@@ -38,12 +38,17 @@ ________________________
 >
 >
 >
+>
+>
   
 ###  *Lettura sul Crocifisso di Cimabue e Giotto*
 
 <iframe width="640" height="360" src="{{site.baseurl}}/modules/w3264_rappr_figura_3.pdf" frameborder="0" allowfullscreen></iframe>
 
->.
->.
+>
+>
+>
+>
+>
 
 {% include disqus.html %}
