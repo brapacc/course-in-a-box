@@ -12,7 +12,7 @@ In questa sezione :
    1. La figura appare bidimensionale o tridimensionale? Perché?
 1. Scrivi le tue riflessioni nei commenti e confrontale con il testo "Il progressivo interesse per il naturalismo nella pittura medievale"
 
-#### Il maestro
+### *Il maestro*
 
 La tradizione fa discendere Giotto da Cimabue.
 Giorgio Vasari, nelle sue ''Vite de' piu' eccellenti architetti, pittori et scultori italiani'' (1550) racconta dell'incontro del tutto casuale tra Cimabue e il suo futuro allievo, all'epoca di appena dieci anni:  
@@ -26,7 +26,7 @@ width="300" height="200">
 ________________________
 
 
-####  Confronto tra il Crocifisso di Cimabue e Giotto
+###  *Confronto tra il Crocifisso di Cimabue e Giotto*
 
 
 ![crocifisso]({{site.baseurl}}/img/giotto-cimabue.png)
@@ -39,10 +39,11 @@ ________________________
 >
 >
   
+###  *Lettura sul Crocifisso di Cimabue e Giotto*
 
 <iframe width="640" height="360" src="{{site.baseurl}}/modules/w3264_rappr_figura_3.pdf" frameborder="0" allowfullscreen></iframe>
 
->
->
+>.
+>.
 
 {% include disqus.html %}
