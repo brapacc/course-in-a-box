@@ -47,3 +47,9 @@ La Spoliazione - Storie di vita di San Francesco (1292-1296) - Assisi (PG)
 - Cosa vogliono fare i bambini che si trovano a sinistra del quadro?
 - Chi sono le persone vicine al Santo?
 - Dove è ambientata questa scena?
+
+
+
+
+{% include disqus.html %}
+
