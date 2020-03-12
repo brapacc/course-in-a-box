@@ -2,7 +2,7 @@
 title: Il crocifisso
 ---
 
-# Il maestro
+## Il maestro
 La tradizione fa discendere Giotto da Cimabue.
 Giorgio Vasari, nelle sue ''Vite de' piu' eccellenti architetti, pittori et scultori italiani'' (1550) racconta dell'incontro del tutto casuale tra Cimabue e il suo futuro allievo, all'epoca di appena dieci anni:  
 
@@ -11,6 +11,9 @@ Giorgio Vasari, nelle sue ''Vite de' piu' eccellenti architetti, pittori et scul
 <img src="http://canespastorales.it/wp-content/uploads/2018/11/giottopecore.jpg" 
 width="300" height="200">
 
+
+
+
 ##  Confronto tra il Crocifisso di Cimabue e Giotto
 
 
@@ -18,7 +21,8 @@ width="300" height="200">
 
 
 
-### Analizza le differenze del dipinto e verifica le tue osservazioni [qui](https://www.thinglink.com/scene/843514826633248768)
+-  Analizza le differenze del dipinto e verifica le tue osservazioni [qui](https://www.thinglink.com/scene/843514826633248768)
+
 
 
 
