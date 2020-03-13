@@ -2,15 +2,20 @@
 title: Il crocifisso
 ---
 
+# Il crocifisso
+
+La rappresentazione del Cristo sofferente (Christus patiens) si diffonde a partire dal XIII secolo. Questa rappresentazione di Cristo, di derivazione bizantina sostituì quella del Cristo trionfante (Christus triumphans). Quest'ultimo, trionfante sulla morte, viene rappresentato ben eretto, sereno, con lo sguardo verso l'orizzonte.
+Nel Christus patiens si ha una rappresentazione più umana di Cristo sofferente. Il Cristo ha sempre gli occhi chiusi, il capo reclinato e il suo corpo, più o meno inarcato, è abbandonato alla morte. 
+
 In questa sezione :
-1. Leggi la storia "Il Maestro"
-1. Confronta i due crocifissi, quello di Cimabue e quello di Giotto, ricercandone le differenze
-1. Rifletti su queste domande
+-  Leggi la storia "Il Maestro"
+-  Confronta i due crocifissi, quello di Cimabue e quello di Giotto, ricercandone le differenze
+-  Rifletti su queste domande
    1. Quale è l'andamento dell'asse di simmetria?
    1. Cosa ti colpisce maggiormente del crocifisso di Giotto? 
    1. Le proporzioni della figura sono realistiche?
    1. La figura appare bidimensionale o tridimensionale? Perché?
-1. Scrivi le tue riflessioni nei commenti e confrontale con il testo "Il progressivo interesse per il naturalismo nella pittura medievale"
+-  Scrivi le tue riflessioni nei commenti e confrontale con il testo "Il progressivo interesse per il naturalismo nella pittura medievale"
 
 ### **Il maestro**
 
