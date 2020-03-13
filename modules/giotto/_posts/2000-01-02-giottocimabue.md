@@ -4,7 +4,7 @@ title: Il crocifisso
 
 In questa sezione :
 1. Leggi la storia "Il Maestro"
-1. Confronta i due crocifissi, quello di Cimabue e quello otto, ricercandone le differenze
+1. Confronta i due crocifissi, quello di Cimabue e quello di Giotto, ricercandone le differenze
 1. Rifletti su queste domande
    1. Quale è l'andamento dell'asse di simmetria?
    1. Cosa ti colpisce maggiormente del crocifisso di Giotto? 
