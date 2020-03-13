@@ -4,6 +4,10 @@ title: La Madonna con bambino
 
 # La Madonna con bambino
 
+La Madonna in Maestà è uno dei soggetti iconografici più rappresentati nella storia dell'arte medioevale. I dipinti con questo soggetto raffigurano la Madonna seduta su un trono con i braccio Gesù e circondata da angeli e santi.
+
+Fai un tour virtuale nella Galleria degli Uffizi che si trova a Firenze e cerca le tre Madonne rappresentate qui sotto. Analizza le tre Madonne e descrivile nei commenti. 
+
 <iframe src="https://www.google.com/maps/embed?pb=!4v1583949927890!6m8!1m7!1s2WZZe_cOrvw-GLRmrj-7Ww!2m2!1d43.7686272!2d11.255917!3f115.61220790933415!4f4.001721362489604!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 
