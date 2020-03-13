@@ -17,4 +17,7 @@ https://www.italianoascuola.ch/
 
 http://homes.chass.utoronto.ca/~ngargano/corsi/varia/indextesto.html
 
-Inserite nei commenti se trovate risorse interessanti
+Se trovate risorse interessanti inseritele nei commenti 
+{% include disqus.html %}
+
+
