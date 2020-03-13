@@ -33,6 +33,8 @@ San Francesco lo portò con sé dentro in città. Da allora il lupo fu sempre bu
 Tutti gli davano da mangiare ed esso andava nelle case come un cane.
 Quando morì, la gente di Gubbio provò molto dispiacere
 
+Crediti : https://www.tuttomamma.com/san-francesco-tre-storie-bambini/43181/
+
 ## Analisi di un'opera: La Spoliazione
 
 <img src="https://www.lavoce.it/wp-content/uploads/2013/09/rinuncia-alle-vesti.jpg"
