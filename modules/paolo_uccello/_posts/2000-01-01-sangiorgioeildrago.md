@@ -15,7 +15,7 @@ width="381" height="300">
 
 Musée Jacquemart Paris, 1430-35, tempera su tavola, 
 
-<img src="{{site.baseurl}}/img/paolo_uccello.jpg" 
+<img src="../img/paolo_uccello.jpg" 
 width="188" height="300">
 
 
