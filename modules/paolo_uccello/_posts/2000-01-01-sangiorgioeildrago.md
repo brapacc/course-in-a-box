@@ -6,7 +6,7 @@ title: San Giorgio e il Drago
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Paolo_Uccello_047b.jpg/1024px-Paolo_Uccello_047b.jpg" 
 width="392" height="300"> 
 
-National Gallery di Londra, 1460 circa, olio su tela, 52×90 
+National Gallery di Londra, 1460 circa, olio su tela, 56×74 
 
 - Conosci la leggenda di San Giorgio e il drago? Prova ad inventare la storia osservando il dipinto, poi leggi la leggenda come viene tramandata dalla tradizione.
 
