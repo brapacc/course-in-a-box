@@ -16,15 +16,6 @@ National Gallery di Londra, 1460 circa, olio su tela, 52×90
 <img src="https://www.musee-jacquemart-andre.com/sites/default/files/styles/fiches_oeuvre/public/mja3036_v2_sebert_photographe_2.jpg" 
 width="381" height="300"> 
 
-<img src="../img/paolo_uccello.jpg" 
-width="188" height="300">
-
-Musée Jacquemart Paris, 1430-35, tempera su tavola, 
-
-https://louvrebible.org.uk/index.php/louvrebible/default/article?id_article=205
-
-
-National Gallery of Victoria, Melbourne, 1423-1425 circa, tempera e oro su tavola, 
 
 ### La Leggenda
 
