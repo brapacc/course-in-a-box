@@ -18,7 +18,7 @@ Musée Jacquemart Paris, 1430-35, tempera su tavola,
 <img src="../img/paolo_uccello.jpg" 
 width="188" height="300">
 
-
+https://louvrebible.org.uk/index.php/louvrebible/default/article?id_article=205
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Paolo_Uccello_-_St_George_slaying_the_dragon_-_Google_Art_Project.jpg" 
 width="377" height="600"> 
