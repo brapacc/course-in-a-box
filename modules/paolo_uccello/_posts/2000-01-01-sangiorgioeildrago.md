@@ -8,8 +8,7 @@ width="392" height="300">
 
 National Gallery di Londra, 1460 circa, olio su tela, 52×90 
 
-- Conosci la leggenda di San Giorgio e il drago? Prova ad inventare la storia osservando il dipinto. 
-Ora leggiamo la leggenda come viene tramandata dalla tradizione.
+- Conosci la leggenda di San Giorgio e il drago? Prova ad inventare la storia osservando il dipinto, poi leggi la leggenda come viene tramandata dalla tradizione.
 
 
 ### Altri dipinti di Paolo Uccello
@@ -29,7 +28,7 @@ National Gallery of Victoria, Melbourne, 1423-1425 circa, tempera e oro su tavol
 
 ### La Leggenda
 
-Tanto tempo fa in una città della Libia viveva un drago, nascosto in un grande stagno puzzolente. Il drago quando si avvicinava alla città uccideva con il suo fiato tutte le persone che incontrava.  
+Tanto tempo fa in una città della Libia viveva un drago, nascosto in una grotta vicino ad un grande stagno puzzolente. Il drago quando si avvicinava alla città uccideva con il suo fiato tutte le persone che incontrava.  
 Per tenerlo a bada, gli abitanti della città offrivano al drago due pecore al giorno. Ma le pecore cominciarono a scarseggiare e gli abitanti cominciarono ad offrirgli i loro figli, scelti per sorteggio, per placare la sua furia. 
 Un giorno la sorte scelse la principessa Silene, la figlia del re.
 La giovane si avviò verso il lago per essere offerta al drago. In quel momento passò il giovane cavaliere Giorgio, a cui un angelo aveva consegnato un vessillo bianco e crociato, il quale, saputo del sacrificio, tranquillizzò la principessa. 
