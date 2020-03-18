@@ -15,7 +15,7 @@ width="381" height="300">
 
 Musée Jacquemart Paris, 1430-35, tempera su tavola, 
 
-<img src="{{site.baseurl}}/modules/paolo uccello/Paolo_Uccello_-_St_George_slaying_the_dragon_-_Google_Art_Project.jpg" 
+<img src="{{site.baseurl}}/img/paolo_uccello.jpg" 
 width="188" height="300">
 
 
