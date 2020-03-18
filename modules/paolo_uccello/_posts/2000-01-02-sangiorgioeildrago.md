@@ -9,6 +9,7 @@ width="392" height="300">
 National Gallery di Londra, 1460 circa, olio su tela, 56×74 cm
 
 - Conosci la leggenda di San Giorgio e il drago? Prova ad inventare la storia osservando il dipinto, poi leggi la leggenda come viene tramandata dalla tradizione.
+- In cosa sono diversi i due dipinti? Scirvi nei commenti le tue riflessioni.
 
 https://www.nationalgallery.org.uk/paintings/paolo-uccello-saint-george-and-the-dragon
 
