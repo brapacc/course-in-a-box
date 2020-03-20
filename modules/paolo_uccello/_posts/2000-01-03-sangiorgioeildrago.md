@@ -9,7 +9,7 @@ width="392" height="300">
 National Gallery di Londra, 1460 circa, olio su tela, 56×74 cm
 
 - Conosci la leggenda di San Giorgio e il drago? Prova ad inventare la storia osservando il dipinto, poi leggi la leggenda come viene tramandata dalla tradizione.
-- In cosa sono diversi i due dipinti? Scirvi nei commenti le tue riflessioni.
+- In cosa sono diversi i due dipinti? **Qual è** il significato simbolico di questi dipinti? Scrivi nei commenti le tue riflessioni.
 
 https://www.nationalgallery.org.uk/paintings/paolo-uccello-saint-george-and-the-dragon
 
@@ -29,4 +29,8 @@ Giorgio con grande coraggio affrontò il drago ferendolo con la lancia. Lo legò
 E così fu. E il drago venne finalmente e definitivamente sconfitto.
 
 Risorse
+
 https://www.finestresullarte.info/operadelgiorno/2014/214-paolo-uccello-san-giorgio-e-la-principessa.php
+
+{% include disqus.html %}
+
