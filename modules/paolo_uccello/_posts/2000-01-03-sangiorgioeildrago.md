@@ -11,8 +11,6 @@ National Gallery di Londra, 1460 circa, olio su tela, 56×74 cm
 - Conosci la leggenda di San Giorgio e il drago? Prova ad inventare la storia osservando il dipinto, poi leggi la leggenda come viene tramandata dalla tradizione.
 - In cosa sono diversi i due dipinti? **Qual è** il significato simbolico di questi dipinti? Scrivi nei commenti le tue riflessioni.
 
-https://www.nationalgallery.org.uk/paintings/paolo-uccello-saint-george-and-the-dragon
-
 ### Altri dipinti di Paolo Uccello
 
 <img src="https://www.musee-jacquemart-andre.com/sites/default/files/styles/fiches_oeuvre/public/mja3036_v2_sebert_photographe_2.jpg" 
@@ -55,8 +53,9 @@ ferire
 tornare
 dire
 
-Risorse
+*Risorse*
 
+https://www.nationalgallery.org.uk/paintings/paolo-uccello-saint-george-and-the-dragon
 https://www.finestresullarte.info/operadelgiorno/2014/214-paolo-uccello-san-giorgio-e-la-principessa.php
 
 {% include disqus.html %}
