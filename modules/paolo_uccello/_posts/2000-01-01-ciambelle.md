@@ -34,8 +34,8 @@ width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/li
 
 
 - Prova a disegnare un cuore e colorare la parte interna in rosso e la parte esterna in blu, ora fanne un altro invertendo i colori. Cosa puoi osservare?
-<img src="https://previews.123rf.com/images/siamimages/siamimages1609/siamimages160900028/64837006-cuore-disegno-icona.jpg" 
-width="50" height="50">
+<img src="https://i.pinimg.com/236x/0e/4d/28/0e4d2843a9980977bfae2ce8b934fa1f.jpg" width="50" height="50">
+
 - Quali altri indizi di profondità potrebbero esserci?
 
 
