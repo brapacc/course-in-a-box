@@ -7,8 +7,8 @@ title: La ciambella
 
 
 <img src="https://vestioevo.files.wordpress.com/2015/06/image15.jpg" 
-width="400" height="414"> <img src="https://vestioevo.files.wordpress.com/2015/06/image16.jpg" 
-width="400" height="414">    
+width="300" height="310"> <img src="https://vestioevo.files.wordpress.com/2015/06/image16.jpg" 
+width="300" height="310">    
 
 Studio di mezzocchio in prospettiva e particolare di Storie di Noè, Santa Maria Novella, Firenze
 
@@ -37,13 +37,11 @@ width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/li
 
 - Quali altri indizi di profondità potrebbero esserci?
 
+<iframe width="700" height="360" src="{{site.baseurl}}/modules/prospettiva.pdf" frameborder="0" allowfullscreen></iframe>
 
+### **Dalle ciambella al punto di fuga**
 
-<iframe width="640" height="360" src="{{site.baseurl}}/modules/prospettiva.pdf" frameborder="0" allowfullscreen></iframe>
-
-## Dalle ciambella al punto di fuga
-
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Uccelo_host_burning.jpg/350px-Uccelo_host_burning.jpg" width="350" height="195"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Uccelo_host_burning.jpg/350px-Uccelo_host_burning.jpg" width="350" height="195"> 
 
 ![fuga]({{site.baseurl}}/img/prospettivaok_10.jpeg)
 
