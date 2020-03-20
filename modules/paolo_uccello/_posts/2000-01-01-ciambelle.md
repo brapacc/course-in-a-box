@@ -1,18 +1,22 @@
 ---
-title: Le mazzocche
+title: La ciambella
 ---
 
+Il mazzocchio
 “Alcuni anni dopo si trovò Paolo Uccello morto di esaurimento sul suo misero letto. Il suo volto raggiava di rughe. Gli occhi erano fissi sul mistero rivelato. Teneva stretto nel pugno un pezzettino rotondo di pergamena, coperto di linee intrecciate che andavano dal centro alla circonferenza e dalla circonferenza al centro.” (Da “Vite immaginarie” – Paolo Uccello pittore, di Marcel Schwob)
 
 <img src="https://vestioevo.files.wordpress.com/2015/06/image15.jpg" 
-width="300" height="200">
+width="400" height="414">
 
 Studio di mezzocchio in prospettiva
 
 
-<img src="https://vestioevo.files.wordpress.com/2015/06/image15.jpg" 
+<img src="https://vestioevo.files.wordpress.com/2015/06/image16.jpg" 
 width="400" height="414">
 Particolare di Storie di Noè, Santa Maria Novella, Firenze
+
+https://upload.wikimedia.org/wikipedia/commons/5/54/Torus_cycles.png
+
 
 # La prospettiva
 
@@ -29,4 +33,6 @@ http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20prospettiva%20aere
 http://www.vcostantini.eu/uploads/images/prospettiva/prospettiva%20binari.jpg
 http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg
 
+Risorse
+https://archive.bridgesmathart.org/2012/bridges2012-433.pdf
 http://www.didatticarte.it/storiadellarte/La%20prospettiva.pdf
