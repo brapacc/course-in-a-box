@@ -22,11 +22,27 @@ Musée Jacquemart-André, Parigi, 1430-35, tempera su tavola, 131x103 cm
 ### La Leggenda
 
 Tanto tempo fa in una città della Libia viveva un drago, nascosto in una grotta vicino ad un grande stagno puzzolente. Il drago quando si avvicinava alla città uccideva con il suo fiato tutte le persone che incontrava.  
-Per tenerlo a bada, gli abitanti della città offrivano al drago due pecore al giorno. Ma le pecore cominciarono a scarseggiare e gli abitanti cominciarono ad offrirgli i loro figli, scelti per sorteggio, per placare la sua furia. 
+Per tenerlo lontano, gli abitanti della città offrivano al drago due pecore al giorno. Ma le pecore cominciarono a scarseggiare e gli abitanti cominciarono ad offrirgli i loro figli, scelti per sorteggio, per placare la sua furia. 
 Un giorno la sorte scelse la principessa Silene, la figlia del re.
-La giovane si avviò verso il lago per essere offerta al drago. In quel momento passò il giovane cavaliere Giorgio, a cui un angelo aveva consegnato un vessillo bianco e crociato, il quale, saputo del sacrificio, tranquillizzò la principessa. 
+La giovane si avviò verso il lago per essere offerta al drago. In quel momento passò il giovane cavaliere Giorgio e accompagnò la principessa . 
 Giorgio con grande coraggio affrontò il drago ferendolo con la lancia. Lo legò al polso della principessa e tutti e tre insieme entrarono in città radunando la popolazione e disse "Questo è il drago che temevate, io posso ucciderlo solo se vi convertirete e crederete tutti nel mio Dio".
 E così fu. E il drago venne finalmente e definitivamente sconfitto.
+
+- Prova a raccontare questa storia ad un tuo compagno o compagna
+
+*Sostantivi*
+drago
+grotta
+lago
+abitante
+pecora
+figlia
+re
+coraggio
+popolazione
+Dio
+
+*Verbi*
 
 Risorse
 
