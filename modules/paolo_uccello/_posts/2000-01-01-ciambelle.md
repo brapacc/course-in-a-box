@@ -32,10 +32,14 @@ width="377" height="263">
 <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20prospettiva%20aerea%20monocromo.jpg" 
 width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg" width="228" height="330"> 
 
-> - Quali altri indicatori potrebbero esserci?
+
+
+- Quali altri indicatori potrebbero esserci?
+
 
 
 <iframe width="640" height="360" src="{{site.baseurl}}/modules/prospettiva.pdf" frameborder="0" allowfullscreen></iframe>
+
 
 
 *Risorse*
