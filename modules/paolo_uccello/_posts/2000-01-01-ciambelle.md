@@ -33,8 +33,10 @@ width="377" height="263">
 width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg" width="228" height="330"> 
 
 
-
-- Quali altri indicatori potrebbero esserci?
+- Prova a disegnare un cuore e colorare la parte interna in rosso e la parte esterna in blu, ora fanne un altro invertendo i colori. Cosa puoi osservare?
+<img src="https://previews.123rf.com/images/siamimages/siamimages1609/siamimages160900028/64837006-cuore-disegno-icona.jpg" 
+width="25" height="25">
+- Quali altri indizi di profondità potrebbero esserci?
 
 
 
