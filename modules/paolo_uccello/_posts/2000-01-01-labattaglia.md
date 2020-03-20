@@ -7,14 +7,25 @@ title: La Battaglia
 Paolo Uccello dipinse in tre tavole i momenti più importanti della "Battaglia di san Romano", combattuta a san Romano nel 1432. L'opera fu commissionata da Lionardo di Bartolomeo Bartolini Salimbeni,.
 Le tre tavole vennero separate e a Firenze rimase solamente la parte centrale del trittico, l'unica firmata
 
-- ![Niccolò da Tolentino alla testa dei fiorentini alla National Gallery di Londra (180×316 cm)](
+- [Niccolò da Tolentino alla testa dei fiorentini alla National Gallery di Londra (180×316 cm)](
 https://upload.wikimedia.org/wikipedia/commons/9/98/San_Romano_Battle_%28Paolo_Uccello%2C_London%29_01.jpg)
 
 - [Disarcionamento di Bernardino della Carda agli Uffizi di Firenze (182×323 cm)]( https://upload.wikimedia.org/wikipedia/commons/d/df/La_batalla_de_San_Romano%2C_por_Paolo_Uccello.jpg)
 
 - [Intervento decisivo a fianco dei fiorentini di Michele Attendolo , l'unico firmato e probabilmente realizzato per ultimo) al Museo del Louvre di Parigi (182×317  cm)]( https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Romano_Battle_%28Paolo_Uccello%2C_Paris%29_01.jpg)
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/9/98/San_Romano_Battle_%28Paolo_Uccello%2C_London%29_01.jpg" width="351" height="200"> <img src=https://upload.wikimedia.org/wikipedia/commons/d/df/La_batalla_de_San_Romano%2C_por_Paolo_Uccello.jpg" width="350" height="200"> <img src=https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Romano_Battle_%28Paolo_Uccello%2C_Paris%29_01.jpg" width="350" height="200">
+- ![Niccolò da Tolentino alla testa dei fiorentini alla National Gallery di Londra (180×316 cm)](
+https://upload.wikimedia.org/wikipedia/commons/9/98/San_Romano_Battle_%28Paolo_Uccello%2C_London%29_01.jpg)
+
+Niccolò da Tolentino alla testa dei fiorentini alla National Gallery di Londra
+
+- ![Disarcionamento di Bernardino della Carda agli Uffizi di Firenze (182×323 cm)]( https://upload.wikimedia.org/wikipedia/commons/d/df/La_batalla_de_San_Romano%2C_por_Paolo_Uccello.jpg)
+
+Disarcionamento di Bernardino della Carda agli Uffizi di Firenze
+
+- ![Intervento decisivo a fianco dei fiorentini di Michele Attendolo al Museo del Louvre di Parigi (182×317  cm)]( https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Romano_Battle_%28Paolo_Uccello%2C_Paris%29_01.jpg)
+
+Intervento decisivo a fianco dei fiorentini di Michele Attendolo al Museo del Louvre di Parigi
 
 
 
