@@ -22,27 +22,38 @@ Musée Jacquemart-André, Parigi, 1430-35, tempera su tavola, 131x103 cm
 ### La Leggenda
 
 Tanto tempo fa in una città della Libia viveva un drago, nascosto in una grotta vicino ad un grande stagno puzzolente. Il drago quando si avvicinava alla città uccideva con il suo fiato tutte le persone che incontrava.  
-Per tenerlo lontano, gli abitanti della città offrivano al drago due pecore al giorno. Ma le pecore cominciarono a scarseggiare e gli abitanti cominciarono ad offrirgli i loro figli, scelti per sorteggio, per placare la sua furia. 
+Per tenelo lontano, gli abitanti della città offrivano al drago due pecore al giorno. Ma le pecore cominciarono a scarseggiare e gli abitanti cominciarono ad offrirgli i loro figli per placare la sua furia. 
 Un giorno la sorte scelse la principessa Silene, la figlia del re.
-La giovane si avviò verso il lago per essere offerta al drago. In quel momento passò il giovane cavaliere Giorgio e accompagnò la principessa . 
-Giorgio con grande coraggio affrontò il drago ferendolo con la lancia. Lo legò al polso della principessa e tutti e tre insieme entrarono in città radunando la popolazione e disse "Questo è il drago che temevate, io posso ucciderlo solo se vi convertirete e crederete tutti nel mio Dio".
+La giovane si diresse verso lo stagno per essere offerta al drago. In quel momento passò il giovane cavaliere Giorgio, tranquillizzò la principessa e l'accompagnò. 
+Giorgio con grande coraggio affrontò il drago ferendolo con la lancia. Lo legò al polso della principessa e tutti e tre insieme tornarono in città. Giorgio disse a tutta la popolazione "Questo è il drago che temevate, io posso ucciderlo solo se vi convertirete e crederete tutti nel mio Dio".
 E così fu. E il drago venne finalmente e definitivamente sconfitto.
 
-- Prova a raccontare questa storia ad un tuo compagno o compagna
+- Prova a raccontare questa storia ad un tuo compagno o compagna utilizzando i sostantivi e i verbi indicati al tempo presente
 
 *Sostantivi*
+città
 drago
 grotta
-lago
+stagno
 abitante
 pecora
-figlia
+figlio
 re
+cavaliere
 coraggio
 popolazione
 Dio
 
 *Verbi*
+vivere
+uccidere
+offrire
+dirigersi
+passare
+affrontare
+ferire
+tornare
+dire
 
 Risorse
 
