@@ -45,6 +45,9 @@ width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/li
 
 ![fuga]({{site.baseurl}}/img/prospettivaok_10.jpeg)
 
+<img src="{{site.baseurl}}/img/prospettivaok_10.jpeg" 
+width="300" height="310">
+
 ![vista]({{site.baseurl}}/img/vista.jpg)
 
 ### Risorse
