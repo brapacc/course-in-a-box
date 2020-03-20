@@ -29,10 +29,10 @@ https://upload.wikimedia.org/wikipedia/commons/9/98/San_Romano_Battle_%28Paolo_U
 
 *Intervento decisivo a fianco dei fiorentini di Michele Attendolo al Museo del Louvre di Parigi*
 
-- Cerca questo particolare. Di cosa si tratta? <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Paolo_Uccello_032.jpg/494px-Paolo_Uccello_032.jpg" 
+- Cerca questo particolare nei tre dipinti. Di cosa si tratta? <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Paolo_Uccello_032.jpg/494px-Paolo_Uccello_032.jpg" 
 width="125" height="150">
 
- - Osservando il quadro:
+ - Osserva il quadro:
 A che ora si svolge la battaglia? Di mattina, di pomeriggio, di sera?
 Quali sono i colori dei cavalli?
 Quali emozioni suscita questo trittico e quali emozioni, secondo te, provano i personaggi del quadro? 
