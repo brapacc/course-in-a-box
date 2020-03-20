@@ -1,6 +1,12 @@
 ---
-title: Le marzocche
+title: Le mazzocche
 ---
+
+“Alcuni anni dopo si trovò Paolo Uccello morto di esaurimento sul suo misero letto. Il suo volto raggiava di rughe. Gli occhi erano fissi sul mistero rivelato. Teneva stretto nel pugno un pezzettino rotondo di pergamena, coperto di linee intrecciate che andavano dal centro alla circonferenza e dalla circonferenza al centro.” (Da “Vite immaginarie” – Paolo Uccello pittore, di Marcel Schwob)
+
+https://vestioevo.files.wordpress.com/2015/06/image15.jpg
+
+https://vestioevo.files.wordpress.com/2015/06/image16.jpg?w=400&h=414
 
 # La prospettiva
 
