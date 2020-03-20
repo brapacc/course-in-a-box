@@ -1,4 +1,10 @@
 
+Guardando Che ore sono? Nel pomeriggio, 
+
+https://youtu.be/AsoagH9gGzA
+
+
+
 Niccolò Mauruzi da Tolentino at the Battle of San Romano
 
 National gallery, London, 1438-40, Egg tempera with walnut oil and linseed oil on poplar
