@@ -45,7 +45,7 @@ width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/li
 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Uccelo_host_burning.jpg/350px-Uccelo_host_burning.jpg" width="350" height="195"> 
 
-![fuga]({{site.baseurl}}/img/Prospettiva ok_10.jpeg)
+![fuga]({{site.baseurl}}/img/prospettivaok_10.jpeg)
 
 ![vista]({{site.baseurl}}/img/vista.jpeg)
 
