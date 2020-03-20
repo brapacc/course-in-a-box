@@ -1,4 +1,3 @@
-
 ---
 title: La Battaglia
 ---
@@ -13,8 +12,7 @@ https://upload.wikimedia.org/wikipedia/commons/9/98/San_Romano_Battle_%28Paolo_U
 
 - [Disarcionamento di Bernardino della Carda agli Uffizi di Firenze (182×323 cm)]( https://upload.wikimedia.org/wikipedia/commons/d/df/La_batalla_de_San_Romano%2C_por_Paolo_Uccello.jpg)
 
-- [Intervento decisivo a fianco dei fiorentini di Michele Attendolo , l'unico firmato e probabilmente realizzato per ultimo) al Museo del Louvre di Parigi (182×317  cm)]
-(https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Romano_Battle_%28Paolo_Uccello%2C_Paris%29_01.jpg)
+- [Intervento decisivo a fianco dei fiorentini di Michele Attendolo , l'unico firmato e probabilmente realizzato per ultimo) al Museo del Louvre di Parigi (182×317  cm)]( https://upload.wikimedia.org/wikipedia/commons/d/d6/San_Romano_Battle_%28Paolo_Uccello%2C_Paris%29_01.jpg)
 
 https://upload.wikimedia.org/wikipedia/commons/9/98/San_Romano_Battle_%28Paolo_Uccello%2C_London%29_01.jpg
 https://upload.wikimedia.org/wikipedia/commons/d/df/La_batalla_de_San_Romano%2C_por_Paolo_Uccello.jpg
