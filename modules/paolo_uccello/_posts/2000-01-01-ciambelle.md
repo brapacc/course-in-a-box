@@ -6,7 +6,7 @@ title: La ciambella
 “Alcuni anni dopo si trovò Paolo Uccello morto di esaurimento sul suo misero letto. Il suo volto raggiava di rughe. Gli occhi erano fissi sul mistero rivelato. Teneva stretto nel pugno un pezzettino rotondo di pergamena, coperto di linee intrecciate che andavano dal centro alla circonferenza e dalla circonferenza al centro.” (Da “Vite immaginarie” – Paolo Uccello pittore, di Marcel Schwob)
 
 
-|<img src="https://vestioevo.files.wordpress.com/2015/06/image15.jpg" 
+<img src="https://vestioevo.files.wordpress.com/2015/06/image15.jpg" 
 width="400" height="414"> <img src="https://vestioevo.files.wordpress.com/2015/06/image16.jpg" 
 width="400" height="414">    
 
@@ -27,6 +27,13 @@ I principali indizi di profondità’ sono:
 - La variazione del colore e della grana delle superfici al variare della distanza dalla sorgente luminosa (prospettiva aerea).
 
 Quali altri indicatori potrebbero esserci?
+
+<img src="http://www.vcostantini.eu/uploads/images/prospettiva/prospettiva%20binari.jpg" 
+width="377" height="263"> 
+<img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20prospettiva%20aerea%20monocromo.jpg" 
+width="226" height="307">  <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg
+" width="228" height="330"> 
+
 
 http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20prospettiva%20aerea%20monocromo.jpg
 http://www.vcostantini.eu/uploads/images/prospettiva/prospettiva%20binari.jpg
