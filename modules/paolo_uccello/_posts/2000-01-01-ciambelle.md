@@ -5,16 +5,15 @@ title: La ciambella
 # Il mazzocchio
 “Alcuni anni dopo si trovò Paolo Uccello morto di esaurimento sul suo misero letto. Il suo volto raggiava di rughe. Gli occhi erano fissi sul mistero rivelato. Teneva stretto nel pugno un pezzettino rotondo di pergamena, coperto di linee intrecciate che andavano dal centro alla circonferenza e dalla circonferenza al centro.” (Da “Vite immaginarie” – Paolo Uccello pittore, di Marcel Schwob)
 
-
 <img src="https://vestioevo.files.wordpress.com/2015/06/image15.jpg" 
 width="300" height="310"> <img src="https://vestioevo.files.wordpress.com/2015/06/image16.jpg" 
 width="300" height="310">    
 
-Studio di mezzocchio in prospettiva e particolare di Storie di Noè, Santa Maria Novella, Firenze
+Studio di mazzocchio in prospettiva e particolare di storie di Noè, Santa Maria Novella, Firenze
 
 ![toro]({{site.baseurl}}/img/paolo-uccello-prospettiva.png)
+Toro geometrico
 
-Toro
 
 
 # La prospettiva
@@ -39,14 +38,14 @@ width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/li
 
 <iframe width="700" height="360" src="{{site.baseurl}}/modules/prospettiva.pdf" frameborder="0" allowfullscreen></iframe>
 
+
 ### **Dalle ciambella al punto di fuga**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Uccelo_host_burning.jpg/350px-Uccelo_host_burning.jpg" width="350" height="195"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Uccelo_host_burning.jpg/350px-Uccelo_host_burning.jpg" width="450" height="250"> 
 
 ![fuga]({{site.baseurl}}/img/prospettivaok_10.jpeg)
 
-![vista]({{site.baseurl}}/img/vista.jpeg)
-
+![vista]({{site.baseurl}}/img/vista.jpg)
 
 ### Risorse
 
