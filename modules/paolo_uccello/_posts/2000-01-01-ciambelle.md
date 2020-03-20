@@ -33,8 +33,8 @@ width="377" height="263">
 width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg" width="228" height="330"> 
 
 
-- Prova a disegnare un cuore e colorare la parte interna in rosso e la parte esterna in blu, ora fanne un altro invertendo i colori. Cosa puoi osservare?
-<img src="https://i.pinimg.com/236x/0e/4d/28/0e4d2843a9980977bfae2ce8b934fa1f.jpg" width="50" height="50">
+- Prova a disegnare un cuore e colorare la parte interna in rosso e la parte esterna in blu, ora fanne un altro invertendo i colori. Cosa puoi osservare? 
+<img src="https://i.pinimg.com/originals/73/87/32/73873215017db5bdf4b20ef89a222cc4.jpg" width="50" height="50">
 
 - Quali altri indizi di profondità potrebbero esserci?
 
