@@ -12,7 +12,7 @@ width="400" height="414">
 
 Studio di mezzocchio in prospettiva e particolare di Storie di Noè, Santa Maria Novella, Firenze
 
-![toro]({{site.baseurl}}img/paolo uccello prospettiva.png)
+![toro]({{site.baseurl}}/img/paolo-uccello-prospettiva.png)
 
 Toro
 
