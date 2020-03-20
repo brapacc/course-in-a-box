@@ -6,13 +6,13 @@ title: La ciambella
 “Alcuni anni dopo si trovò Paolo Uccello morto di esaurimento sul suo misero letto. Il suo volto raggiava di rughe. Gli occhi erano fissi sul mistero rivelato. Teneva stretto nel pugno un pezzettino rotondo di pergamena, coperto di linee intrecciate che andavano dal centro alla circonferenza e dalla circonferenza al centro.” (Da “Vite immaginarie” – Paolo Uccello pittore, di Marcel Schwob)
 
 
-| <img src="https://vestioevo.files.wordpress.com/2015/06/image15.jpg" 
-width="400" height="414">  |  <img src="https://vestioevo.files.wordpress.com/2015/06/image16.jpg" 
+|<img src="https://vestioevo.files.wordpress.com/2015/06/image15.jpg" 
+width="400" height="414"> <img src="https://vestioevo.files.wordpress.com/2015/06/image16.jpg" 
 width="400" height="414">    
 
 Studio di mezzocchio in prospettiva e particolare di Storie di Noè, Santa Maria Novella, Firenze
 
-
+img/paolo uccello prospettiva.png
 
 # La prospettiva
 
