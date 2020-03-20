@@ -33,7 +33,10 @@ width="377" height="263">
 <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20prospettiva%20aerea%20monocromo.jpg" 
 width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg" width="228" height="330"> 
 
-<iframe src="http://www.didatticarte.it/storiadellarte/La%20prospettiva.pdf" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+
+<iframe width="640" height="360" src="{{site.baseurl}}/modules/prospettiva.pdf" frameborder="0" allowfullscreen></iframe>
+
 
 *Risorse*
 
@@ -44,5 +47,7 @@ http://www.didatticarte.it/storiadellarte/La%20prospettiva.pdf
 https://it.wikipedia.org/wiki/Toro_(geometria)#/media/File:Torus_cycles.png
 
 https://www.youtube.com/watch?v=0XocVAETQJw
+
+http://www.didatticarte.it/storiadellarte/La%20prospettiva.pdf
 
 
