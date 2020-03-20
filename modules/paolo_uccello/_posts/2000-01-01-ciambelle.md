@@ -31,12 +31,8 @@ Quali altri indicatori potrebbero esserci?
 <img src="http://www.vcostantini.eu/uploads/images/prospettiva/prospettiva%20binari.jpg" 
 width="377" height="263"> 
 <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20prospettiva%20aerea%20monocromo.jpg" 
-width="226" height="307">  <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg" width="228" height="330"> 
+width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg" width="228" height="330"> 
 
-
-http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20prospettiva%20aerea%20monocromo.jpg
-http://www.vcostantini.eu/uploads/images/prospettiva/prospettiva%20binari.jpg
-http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg
 
 Risorse
 
