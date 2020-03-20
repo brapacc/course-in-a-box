@@ -42,7 +42,7 @@ width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/li
 
 
 
-*Risorse*
+### Risorse
 
 https://archive.bridgesmathart.org/2012/bridges2012-433.pdf
 
