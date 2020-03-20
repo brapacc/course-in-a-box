@@ -33,6 +33,9 @@ http://www.vcostantini.eu/uploads/images/prospettiva/prospettiva%20binari.jpg
 http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg
 
 Risorse
+
 https://archive.bridgesmathart.org/2012/bridges2012-433.pdf
 http://www.didatticarte.it/storiadellarte/La%20prospettiva.pdf
 https://it.wikipedia.org/wiki/Toro_(geometria)#/media/File:Torus_cycles.png
+https://www.youtube.com/watch?v=0XocVAETQJw
+
