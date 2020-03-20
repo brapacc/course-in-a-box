@@ -11,10 +11,8 @@ width="300" height="310">
 
 Studio di mazzocchio in prospettiva e particolare di storie di Noè, Santa Maria Novella, Firenze
 
+##### Toro geometrico
 ![toro]({{site.baseurl}}/img/paolo-uccello-prospettiva.png)
-Toro geometrico
-
-
 
 # La prospettiva
 
@@ -41,12 +39,11 @@ width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/li
 
 ### **Dalle ciambella al punto di fuga**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Uccelo_host_burning.jpg/350px-Uccelo_host_burning.jpg" width="450" height="250"> 
 
-![fuga]({{site.baseurl}}/img/prospettivaok_10.jpeg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Uccelo_host_burning.jpg/350px-Uccelo_host_burning.jpg" width="300" height="195"> 
 
 <img src="{{site.baseurl}}/img/prospettivaok_10.jpeg" 
-width="300" height="310">
+width="300" height="400">
 
 ![vista]({{site.baseurl}}/img/vista.jpg)
 
