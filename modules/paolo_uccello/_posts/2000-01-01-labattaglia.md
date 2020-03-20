@@ -32,6 +32,9 @@ https://upload.wikimedia.org/wikipedia/commons/9/98/San_Romano_Battle_%28Paolo_U
 - Cerca questo particolare. Di cosa si tratta?
 ![particolare](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Paolo_Uccello_032.jpg/494px-Paolo_Uccello_032.jpg)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Paolo_Uccello_032.jpg/494px-Paolo_Uccello_032.jpg" 
+width="125" height="150">
+
  - Osservando il quadro:
 A che ora si svolge la battaglia? Di mattina, di pomeriggio, di sera?
 Quali sono i colori dei cavalli?
