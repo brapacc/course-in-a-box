@@ -39,12 +39,15 @@ width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/li
 ### **Dalle ciambella al punto di fuga**
 
 
+<img src="{{site.baseurl}}/img/prospettivaok_10.jpeg" 
+width="300" height="300">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Uccelo_host_burning.jpg/350px-Uccelo_host_burning.jpg" width="300" height="195"> 
 
-<img src="{{site.baseurl}}/img/prospettivaok_10.jpeg" 
-width="400" height="400">
-
 ![vista]({{site.baseurl}}/img/vista.jpg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Uccello_044.jpg/1200px-Paolo_Uccello_044.jpg" width="400" height="195"> 
+
 
 ### Risorse
 
