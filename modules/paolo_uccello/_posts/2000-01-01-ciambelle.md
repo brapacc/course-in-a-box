@@ -46,7 +46,7 @@ width="300" height="300">
 
 ![vista]({{site.baseurl}}/img/vista.jpg)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Uccello_044.jpg/1200px-Paolo_Uccello_044.jpg" width="400" height="195"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Uccello_044.jpg/1200px-Paolo_Uccello_044.jpg" width="400" height="600"> 
 
 
 ### Risorse
