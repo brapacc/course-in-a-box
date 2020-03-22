@@ -4,7 +4,7 @@ title : Struttura
 
 # La struttura
 
-Il materiali utilizzati sono quelli messi a disposizione dal Politecnico di Milano Benvenuti in Italia! Orientarsi con l'italiano - Part 1
+Il materiali utilizzati sono quelli messi a disposizione dal Politecnico di Milano per il corso "Benvenuti in Italia! Orientarsi con l'italiano - Part 1"
 
 [https://www.pok.polimi.it/courses/course-v1:Polimi+ITA101+2019_M9/info](https://www.pok.polimi.it/courses/course-v1:Polimi+ITA101+2019_M9/info)
 
