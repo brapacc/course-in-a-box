@@ -12,3 +12,8 @@ L'Italia nel quattrocento
 - Leggi le descrizioni e associale al periodo
 
 <iframe src="https://learningapps.org/watch?v=pkjdu632j20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+**Musica**
+Ascolta la musica del trecento "Veni Sancte Spiritus"
+
+(https://www.youtube.com/watch?v=kpPpu5iAdnI)
