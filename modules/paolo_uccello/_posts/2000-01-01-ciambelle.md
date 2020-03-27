@@ -25,7 +25,7 @@ I principali indizi di profondità’ sono:
 
 <img src="http://www.vcostantini.eu/uploads/images/prospettiva/prospettiva%20binari.jpg" 
 width="377" height="263"> 
-<img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20prospettiva%20aerea%20monocromo.jpg" 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Summit_photo_Zugspitze.jpg/220px-Summit_photo_Zugspitze.jpg" 
 width="242" height="330">  <img src="http://www.vcostantini.eu/uploads/images/linguaggio/seconda%20carte%20colorate%20paesaggio%20indicatori.jpg" width="228" height="330"> 
 
 
