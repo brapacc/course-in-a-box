@@ -7,7 +7,7 @@ title: Il Quattrocento
 L'Italia nel quattrocento
 <p><a href="https://commons.wikimedia.org/wiki/File:Italia_1494-it.svg#/media/File:Italia_1494-it.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Italia_1494-it.svg/1200px-Italia_1494-it.svg.png" alt="Italia 1494-it.svg"></a><br>Di <a href="//commons.wikimedia.org/wiki/User:Shadowxfox" class="mw-redirect" title="User:Shadowxfox">Shadowxfox</a> (original map in Spanish); <a href="//commons.wikimedia.org/wiki/User:Mess" title="User:Mess">Mess</a> (Italian translation) - <a href="//commons.wikimedia.org/wiki/File:Italia_1494-es.svg" title="File:Italia 1494-es.svg">File:Italia 1494-es.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25133702">Collegamento</a></p>
 
-## Caratteristic del Rinascimentohe 
+## Caratteristiche del Rinascimentohe 
 
 - Leggi le descrizioni e associale al periodo
 
