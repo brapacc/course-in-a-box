@@ -25,6 +25,7 @@ Giorgio Vasari, nelle sue ''Vite de' piu' eccellenti architetti, pittori et scul
 >'E cosi' avvenne che un giorno Cimabue, pittore celebratissimo, trovo' nella villa di Vespignano Giotto, il quale, in mentre >le sue pecore pascevano, aveva tolto una lastra piana e pulita e, con un sasso un poco appuntato, ritraeva una pecora di >naturale, senza esserli insegnato modo nessuno altro che dallo estinto della natura''. 
 
 Gaetano Sabatelli, Cimabue e Giotto, 1846
+
 <img src="http://canespastorales.it/wp-content/uploads/2018/11/giottopecore.jpg" 
 width="300" height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Gaetano_Sabatelli_Cimabue_e_Giotto.jpg" 
 width="300" height="200">  
