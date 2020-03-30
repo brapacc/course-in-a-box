@@ -26,7 +26,8 @@ Giorgio Vasari, nelle sue ''Vite de' piu' eccellenti architetti, pittori et scul
 
 
 <img src="http://canespastorales.it/wp-content/uploads/2018/11/giottopecore.jpg" 
-width="300" height="200">
+width="300" height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Gaetano_Sabatelli_Cimabue_e_Giotto.jpg" 
+width="300" height="200">  
 
 ________________________
 
