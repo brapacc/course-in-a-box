@@ -9,6 +9,9 @@ L'Italia nel quattrocento
 
 - Quali sono i cinque grandi Stati regionali protagonisti della vita italiana a partire dalla fine del Trecento e per tutto il Quattrocento?
 
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:480px;height:352px;max-width:100%"><iframe src="https://padlet.com/padlets/hkp0lh38t7ru/embeds/preview_embed" style="width:100%;height:100%;display:block;padding:0;margin:0" frameborder="0"></iframe></div>
+
+
 ## Caratteristiche del Rinascimento 
 
 - Leggi le descrizioni e associale al periodo
