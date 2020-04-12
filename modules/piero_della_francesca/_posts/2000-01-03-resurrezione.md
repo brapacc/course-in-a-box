@@ -19,5 +19,5 @@ National zgallery, London, 1445
 - Come sono stati dipinti gli alberi nel dipinto?
 - Analizza il dipinto pensando a questo tre elementi: immobilità, linea verticale, linea orizzontale
 
-**Osertva il dipinto di destra**
+**Osserva il dipinto di destra**
 - Quali differenze e wuali elementi comuni puoi osservare?
