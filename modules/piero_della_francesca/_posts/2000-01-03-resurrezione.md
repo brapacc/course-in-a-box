@@ -14,7 +14,10 @@ Museo Civico, Sansepolcro 1460-63
 National zgallery, London, 1445
 
 
-**Osserva il dipinto**
+**Osserva il dipinto a sinistra**
 - Cosa rappresenta?
 - Come sono stati dipinti gli alberi nel dipinto?
-- Analizza il dipinto pensando a questo tre elementi: immobilità, verticale, orizzontale
+- Analizza il dipinto pensando a questo tre elementi: immobilità, linea verticale, linea orizzontale
+
+**Osertva il dipinto di destra**
+- Quali differenze e wuali elementi comuni puoi osservare?
