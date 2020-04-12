@@ -7,10 +7,11 @@ title: Resurrezione
 width="382" height="400"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtnreAuBTG52Dq0X7RhTze6yRu8DWJpmDIC5c5_J1yovb6BZgQ&usqp=CAU" 
 width="274" height="400">    
 
-Resurrezione
+*Resurrezione*
 Museo Civico, Sansepolcro 1460-63
 
-Battesimo
+*Battesimo di Cristo*
+National zgallery, London, 1445
 
 
 **Osserva il dipinto**
