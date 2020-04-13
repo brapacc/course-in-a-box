@@ -17,7 +17,7 @@ Osserva attentamente le figure rappresentate
 - Quali oggetti sono rappresentati nel dipinto?
 - Dove si trova il punto di fuga? [Prospettiva](http://artemondocuore.altervista.org/wp-content/uploads/2019/06/schema-pala.jpg)
 
-Prova ad associare, seguendo la descrizione qui sotto, i personaggi rappresentati:
+Prova ad associare, seguendo la descrizione, i personaggi rappresentati nel dipinto:
 
 *San Pietro martire*, con il taglio sulla testa;
 
@@ -30,4 +30,7 @@ Prova ad associare, seguendo la descrizione qui sotto, i personaggi rappresentat
 *San Giovanni Evangelista*, con il libro e il mantello tipicamente rosato.
 
 *San Francesco d'Assisi*, che mostra le stimmate la cui presenza viene messa in relazione con una possibile destinazione originaria per la chiesa francescana di San Donato degli Osservanti, che peraltro ospitò per un periodo la stessa tomba del Duca Federico;
+
+**Risorse**
+https://it.m.wikipedia.org/wiki/Pala_di_Brera
 
