@@ -17,4 +17,4 @@ Osserva attentamente le figure rappresentate
 - Quali oggetti sono rappresentati nel dipinto?
 - Dove si trova il punto di fuga?
 
-![Prospettiva](http://artemondocuore.altervista.org/wp-content/uploads/2019/06/schema-pala.jpg)
+[Prospettiva](http://artemondocuore.altervista.org/wp-content/uploads/2019/06/schema-pala.jpg)
