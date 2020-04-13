@@ -16,7 +16,7 @@ National Gallery, London, 1445
 
 **Osserva il dipinto a sinistra**
 - Cosa rappresenta?
-- Come sono stati dipinti gli alberi nel dipinto?
+- Come sono stati dipinti gli alberi?
 - Analizza il dipinto pensando a questo tre elementi: immobilità, linea verticale, linea orizzontale
 
 **Osserva il dipinto di destra**
