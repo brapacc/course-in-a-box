@@ -11,7 +11,7 @@ width="274" height="400">
 Museo Civico, Sansepolcro 1460-63
 
 *Battesimo di Cristo*
-National zgallery, London, 1445
+National Gallery, London, 1445
 
 
 **Osserva il dipinto a sinistra**
@@ -20,4 +20,4 @@ National zgallery, London, 1445
 - Analizza il dipinto pensando a questo tre elementi: immobilità, linea verticale, linea orizzontale
 
 **Osserva il dipinto di destra**
-- Quali differenze e wuali elementi comuni puoi osservare?
+- Quali differenze e quali elementi comuni puoi osservare?
