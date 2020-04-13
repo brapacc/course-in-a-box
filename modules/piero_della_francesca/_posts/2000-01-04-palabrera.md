@@ -11,7 +11,7 @@ width="280" height="400">
 
 Tempera e olio su tavola, Pinacoteca di Brera, Milano, 1472-1474
 
-Osserva attentamente le figure rappresentate
+Osserva attentamente le figure rappresentate:
 - Come sono vestite?
 - Riconosci qualche personaggio?
 - Quali oggetti sono rappresentati nel dipinto?
@@ -32,6 +32,8 @@ Prova ad associare le seguenti descrizioni ai personaggi rappresentati nel dipin
 *San Francesco d'Assisi*, che mostra le stimmate;
 
 Controlla [qui](https://www.thinglink.com/card/1306178347809636355) il risultato
+
+<iframe width="300" height="430" data-original-width="462" data-original-height="663" src="https://www.thinglink.com/card/1306178347809636355" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
 **Risorse**
 https://it.m.wikipedia.org/wiki/Pala_di_Brera
