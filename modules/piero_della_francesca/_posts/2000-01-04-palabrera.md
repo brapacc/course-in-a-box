@@ -15,3 +15,4 @@ Osserva attentamente le figure rappresentate
 - Come sono vestite?
 - Riconosci qualche personaggio?
 - Quali oggetti sono rappresentati nel dipinto?
+- Dove si trova il punto di fuga?
