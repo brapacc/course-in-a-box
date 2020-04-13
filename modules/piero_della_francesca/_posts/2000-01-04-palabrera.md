@@ -17,7 +17,7 @@ Osserva attentamente le figure rappresentate
 - Quali oggetti sono rappresentati nel dipinto?
 - Dove si trova il punto di fuga? [Prospettiva](http://artemondocuore.altervista.org/wp-content/uploads/2019/06/schema-pala.jpg)
 
-- Prova ad associare la seguente descrizione ai personaggi rappresentati nel dipinto:
+Prova ad associare la seguente descrizione ai personaggi rappresentati nel dipinto:
 
 *San Pietro martire*, con il taglio sulla testa;
 
