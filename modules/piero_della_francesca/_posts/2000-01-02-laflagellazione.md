@@ -3,7 +3,7 @@ title : la flagellazione
 ---
 # La flagellazione
 
-<iframe width="560" height="315" src="https://youtu.be/gzprapduh2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src=" https://www.youtube.com/embed/gzprapduh2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ![flagellazione](https://upload.wikimedia.org/wikipedia/commons/8/85/Piero%2C_flagellazione_11.jpg)
