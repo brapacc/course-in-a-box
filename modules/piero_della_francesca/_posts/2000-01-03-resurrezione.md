@@ -7,10 +7,10 @@ title: Resurrezione
 width="382" height="400"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtnreAuBTG52Dq0X7RhTze6yRu8DWJpmDIC5c5_J1yovb6BZgQ&usqp=CAU" 
 width="274" height="400">    
 
-*Resurrezione*
+*Resurrezione* [Matteo 28,2-4](http://www.laparola.net/wiki.php?riferimento=Mt28%2C2-4&formato_rif=vp)
 Museo Civico, Sansepolcro 1460-63
 
-*Battesimo di Cristo*
+*Battesimo di Cristo* [Matteo 3,16](http://www.laparola.net/wiki.php?riferimento=Mt3%2C16&formato_rif=vp)
 National Gallery, London, 1445
 
 
