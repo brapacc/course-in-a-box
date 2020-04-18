@@ -3,9 +3,7 @@ title : la flagellazione
 ---
 # La flagellazione
 
-Aspetta che si carichi l'applicazione, guarda il video e rispondi alle domande
-
-<iframe width="514" height="400" scrolling="no" src="https://youtu.be/gzprapduh2E" allow="autoplay *;" allowfullscreen frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://youtu.be/gzprapduh2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ![flagellazione](https://upload.wikimedia.org/wikipedia/commons/8/85/Piero%2C_flagellazione_11.jpg)
