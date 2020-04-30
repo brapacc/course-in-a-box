@@ -12,3 +12,5 @@ L'angelo le disse: "Non temere, Maria, perché hai trovato grazia presso Dio. Ed
 Allora Maria disse all'angelo: "Come avverrà questo, poiché non conosco uomo?". Le rispose l'angelo: "Lo Spirito Santo scenderà su di te e la potenza dell'Altissimo ti coprirà con la sua ombra. Perciò colui che nascerà sarà santo e sarà chiamato Figlio di Dio. 
 Ed ecco, Elisabetta, tua parente, nella sua vecchiaia ha concepito anch'essa un figlio e questo è il sesto mese per lei, che era detta sterile: nulla è impossibile a Dio". Allora Maria disse: "Ecco la serva del Signore: avvenga per me secondo la tua parola". E l'angelo si allontanò da lei.
 (Lc 1,26-38 Traduzione CEI 2008)
+
+[English]( https://www.goodnews.ie/annunciation.shtml)
