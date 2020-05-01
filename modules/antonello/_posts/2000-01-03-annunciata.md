@@ -17,5 +17,8 @@ Ed ecco, Elisabetta, tua parente, nella sua vecchiaia ha concepito anch'essa un 
 
 [English]( https://www.goodnews.ie/annunciation.shtml)
 
-https://upload.wikimedia.org/wikipedia/commons/8/83/Antonello_da_Messina_-_Virgin_Annunciate_-_Galleria_Regionale_della_Sicilia%2C_Palermo.jpg
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Antonello_da_Messina_-_Virgin_Annunciate_-_Galleria_Regionale_della_Sicilia%2C_Palermo.jpg" 
+width="300" height="400">
+
+
 
