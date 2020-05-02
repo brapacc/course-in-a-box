@@ -20,10 +20,18 @@ Ed ecco, Elisabetta, tua parente, nella sua vecchiaia ha concepito anch'essa un 
 
 ## L'Annuciata
 
-- Questo è uno dei più famosi quadri di Antonello da Messina, quale sostanziale differnza puoi notare rispetto alle precednti rappresentazioni?
+- Questo è uno dei più famosi quadri di Antonello da Messina, quale sostanziale differenza puoi notare rispetto alle precednti rappresentazioni?
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Antonello_da_Messina_-_Virgin_Annunciate_-_Galleria_Regionale_della_Sicilia%2C_Palermo.jpg" 
 width="300" height="400">
+da quella di 
+Antonello dipinde altre annunciazioni e altre rappresentazioni della Madonna, qui una davvero particolare. 
+Quanto è diversa questa Madonna detta di Salting?
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Antonello_da_messina%2C_madonna_salting.jpg
+" 
+width="331" height="423">
+
+
 
 
 
