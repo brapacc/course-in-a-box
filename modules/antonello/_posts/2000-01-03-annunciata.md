@@ -32,7 +32,12 @@ width="300" height="400">
 " 
 width="331" height="423">
 
+*Risorse*
 
+in English
+https://medium.com/thinksheet/symbols-in-art-the-annunciation-7347bddb89d
+in italiano
+https://www.foliamagazine.it/annunciazione-origini/
 
 
 
