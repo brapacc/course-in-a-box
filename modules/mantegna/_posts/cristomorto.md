@@ -15,10 +15,15 @@ Dimensioni |	68×81 cm | 4
 Ubicazione |	Pinacoteca di Brera, Milan | 5
 
 - **Rispondi alle domande**
+
 Qual è il titolo di questo dipinto?
+
 Chi è l'autore?
+
 Quando è stato dipinto il quadro?
+
 Quanto è grande?
+
 Dove si trova?
 
 Con questo quadro Mantegna ha cambiato il linguaggio dell'arte, ed ha avuto una grande influenza sugli artisti successivi.
