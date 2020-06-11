@@ -31,7 +31,7 @@ width="500" height="414">
 
 Con questo quadro Mantegna cambiò il linguaggio dell'arte, ed ebbe una grande influenza sugli artisti successivi.
 
-**Descrizione del Cristo Morto**
+**Descrizione dei personaggi**
 
 - Riempi le parole mancanti aiutandoti con il vocabolario sul corpo umano 
 (Soluzione)[https://pinacotecabrera.org/wp-content/uploads/2019/04/SALA-6-Il-Cristo-Morto-di-Mantegna-DescriVedendo-TESTO.pdf] (audio)[https://pinacotecabrera.org/educazione/descrivedendo-brera/]
