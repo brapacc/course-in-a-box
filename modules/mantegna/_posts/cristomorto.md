@@ -52,36 +52,23 @@ I gomiti sono leggermente piegati.
 
 Infine, nella parte più alta e centrale del dipinto c'è la testa.
 La testa è inclinata verso destra.
-
 Gesù Cristo ha occhi e labbra chiusi.
 La barba e i baffi sono appena accennati.
 Lunghi capelli scuri e mossi circondano il viso di Cristo. 
-In alto, all’estremità della lastra c’è un piccolo recipiente di
-marmo scuro, chiuso da un coperchio, che contiene gli unguenti
-profumati da spalmare sul corpo del defunto prima della sepoltura.
-Nell’angolo in alto a sinistra, più o meno alla stessa altezza del viso di
-Gesù Cristo, nel settore 1, troviamo i volti di tre figure segnate dal dolore,
-un uomo e due donne.
-Più prossimo a noi c’è l’uomo, Giovanni Evangelista, che piange rivolto
-verso Cristo. Di lui vediamo solo parte del volto di profilo, con corti capelli
-scuri: ha la bocca aperta, gli occhi socchiusi, da cui scende una lacrima, e
-le mani giunte sul petto.
-Dietro c'è Maria, la madre di Gesù Cristo, che si sta asciugando gli occhi
-con un fazzoletto bianco. È raffigurata anziana, con la pelle segnata da
-profonde rughe d'espressione, ha la testa e il collo avvolti da un tessuto
-chiaro e sopra il capo porta un manto scuro.
-Ancora più indietro si trova una donna, tradizionalmente identificata con
-Maria Maddalena. Di lei si vede solo la parte inferiore del volto, dal naso
-in giù. La sua bocca è aperta in un’espressione di dolore.
-Lo sfondo della scena è costituito da una parete marrone grigio, che nel
-settore 3, in alto a destra, si apre in un varco verso uno spazio
-completamente buio.
-La luce tenue che illumina la scena proviene da una fonte non visibile,
-situata ad ore 2, e sottolinea le ombre dei corpi e le pieghe del lenzuolo.
-La tinta che domina la composizione, nelle sfumature delle terre, è resa
-con colori opachi e spenti, che contribuiscono a stendere sull’opera
-un’atmosfera dolente. Parti della tela di lino su cui è dipinta l’opera
-riemergono in diversi punti con colori fra l’ocra e il giallo-arancio. 
+
+In alto a destra, c’è un piccolo vaso di marmo scuro, chiuso da un coperchio.
+
+In alto a sinistra, ci sono tre persone addolorate, un uomo e due donne.
+Giovanni Evangelista, dipinto  di profilo, ha i capelli corti e scuri. 
+La sua bocca è aperta, gli occhi socchiusi.
+Dagli occhi scende una lacrima.
+
+Dietro di lui c'è Maria, la madre di Gesù Cristo, che si sta asciugando gli occhi
+con un fazzoletto bianco. 
+È anziana, con la pelle segnata da profonde rughe. 
+Dietro a Maria, si trova una donna, probabilmente identificata con
+Maria Maddalena. 
+La sua bocca è aperta ed ha un’espressione di dolore.
 
 ## DESCRIZIONE DEL CORPO UMANO
 
