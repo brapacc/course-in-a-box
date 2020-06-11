@@ -33,8 +33,8 @@ Con questo quadro Mantegna cambiò il linguaggio dell'arte, ed ebbe una grande i
 
 **Descrizione dei personaggi**
 
-- Riempi le parole mancanti aiutandoti con il vocabolario sul corpo umano 
-(Soluzione)[https://pinacotecabrera.org/wp-content/uploads/2019/04/SALA-6-Il-Cristo-Morto-di-Mantegna-DescriVedendo-TESTO.pdf] (audio)[https://pinacotecabrera.org/educazione/descrivedendo-brera/]
+- Riempi il testo con le parole mancanti 
+
 
 La scena è all'interno del **sepolcro**. 
 Il corpo senza vita di Gesù Cristo si trova sopra un piano di **marmo**.
@@ -50,25 +50,24 @@ Le **nocche** delle mani sono appaggiote sul lenzuolo.
 Anche sul **dorso** delle mani si vedono i fori lasciati dai chiodi nella carne. 
 I gomiti sono leggermente piegati.
 
-Infine, nella parte più alta e centrale del dipinto c'è la testa.
+Infine, nella parte più alta e centrale del dipinto c'è la **testa**.
 La testa è inclinata verso destra.
-Gesù Cristo ha occhi e labbra chiusi.
-La barba e i baffi sono appena accennati.
+Gesù Cristo ha occhi e **labbra** chiusi.
+La **barba** e i **baffi** sono appena accennati.
 Lunghi capelli scuri e mossi circondano il viso di Cristo. 
 
-In alto a destra, c’è un piccolo vaso di marmo scuro, chiuso da un coperchio.
+In alto a destra, c’è un piccolo **vaso** di marmo scuro, chiuso da un coperchio.
 
 In alto a sinistra, ci sono tre persone addolorate, un uomo e due donne.
 Giovanni Evangelista, dipinto  di profilo, ha i capelli corti e scuri. 
-La sua bocca è aperta, gli occhi socchiusi.
-Dagli occhi scende una lacrima.
+La sua bocca è aperta, gli occhi leggermente aperti.
+Dagli occhi scende una **lacrima**.
 
 Dietro di lui c'è Maria, la madre di Gesù Cristo, che si sta asciugando gli occhi
-con un fazzoletto bianco. 
-È anziana, con la pelle segnata da profonde rughe. 
-Dietro a Maria, si trova una donna, probabilmente identificata con
-Maria Maddalena. 
-La sua bocca è aperta ed ha un’espressione di dolore.
+con un **fazzoletto** bianco. 
+È anziana, con la pelle segnata da profonde **rughe**. 
+Dietro a Maria, si trova un'altra donna, probabilmente Maria Maddalena. 
+La sua bocca è aperta ed ha un’espressione di **dolore**.
 
 ## DESCRIZIONE DEL CORPO UMANO
 
@@ -77,3 +76,7 @@ La sua bocca è aperta ed ha un’espressione di dolore.
 
 ### ARTI SUPERIORI
 !(aRTI)[https://www.bikeitalia.it/wp-content/uploads/2015/12/Braccio_2.jpg]
+
+
+**Risorse**
+(Testo)[https://pinacotecabrera.org/wp-content/uploads/2019/04/SALA-6-Il-Cristo-Morto-di-Mantegna-DescriVedendo-TESTO.pdf] (audio)[https://pinacotecabrera.org/educazione/descrivedendo-brera/]
