@@ -73,4 +73,7 @@ La sua bocca è aperta ed ha un’espressione di dolore.
 ## DESCRIZIONE DEL CORPO UMANO
 
 ### LA MANO
-https://66.media.tumblr.com/d039c0a9bdf8a8800aa92ad2841e33fb/tumblr_nxkiatVXYR1qzaax0o1_640.jpg
+!(MANO)[https://66.media.tumblr.com/d039c0a9bdf8a8800aa92ad2841e33fb/tumblr_nxkiatVXYR1qzaax0o1_640.jpg]
+
+### ARTI SUPERIORI
+!(aRTI)[https://www.bikeitalia.it/wp-content/uploads/2015/12/Braccio_2.jpg]
