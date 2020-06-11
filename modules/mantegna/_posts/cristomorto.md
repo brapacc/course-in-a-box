@@ -1,5 +1,8 @@
+---
+title: Cristo Morto 
+---
 
-Cristo Morto nel sepolcro e tre dolenti 
+# Cristo Morto nel sepolcro e tre dolenti 
 
 Autore | 	Andrea Mantegna | 1
 Data|	1475-1478 circa | 2
