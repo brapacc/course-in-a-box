@@ -26,7 +26,7 @@ Quanto è grande?
 
 Dove si trova?
 
-Con questo quadro Mantegna ha cambiato il linguaggio dell'arte, ed ha avuto una grande influenza sugli artisti successivi.
+Con questo quadro Mantegna cambiò il linguaggio dell'arte, ed ebbe una grande influenza sugli artisti successivi.
 
 
 
