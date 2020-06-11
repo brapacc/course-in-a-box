@@ -4,11 +4,13 @@ title: Cristo Morto
 
 # Cristo Morto nel sepolcro e tre dolenti 
 
-Autore | 	Andrea Mantegna | 1
-Data|	1475-1478 circa | 2
-Tecnica |	tempera su tela | 3
-Dimensioni |	68×81 cm | 4
-Ubicazione |	Pinacoteca di Brera, Milan | 5
+Autore   | 	Andrea Mantegna | 
+Data  |	1475-1478 circa | 
+Tecnica   |	tempera su tela | 
+Dimensioni   |	68×81 cm | 
+Ubicazione   |	Pinacoteca di Brera, Milan | 
+
+____________
 
 - **Rispondi alle domande**
 
@@ -24,6 +26,7 @@ Quanto è grande?
 
 Dove si trova?
 
+
 ____________
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/The_dead_Christ_and_three_mourners%2C_by_Andrea_Mantegna.jpg" 
@@ -31,11 +34,7 @@ width="500" height="414">
 
 Con questo quadro Mantegna cambiò il linguaggio dell'arte, ed ebbe una grande influenza sugli artisti successivi.
 
-**Descrizione dei personaggi**
-
-- Completa il testo inserendo al post giusto le parole date.
-<iframe src="https://learningapps.org/watch?v=pqt1q6o9320" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
+**Leggi attentamente la descrizione dei personaggi**
 
 La scena è all'interno del Santo Sepolcro. 
 Il corpo senza vita di Gesù Cristo si trova sopra un piano di **marmo**.
@@ -69,6 +68,11 @@ con un **fazzoletto** bianco.
 È anziana, con la pelle segnata da profonde **rughe**. 
 Dietro a Maria, si trova un'altra donna, probabilmente Maria Maddalena. 
 La sua bocca è aperta ed ha un’espressione di **dolore**.
+
+**Completa il testo inserendo al post giusto le parole date.**
+<iframe src="https://learningapps.org/watch?v=pqt1q6o9320" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+__________
 
 ## DESCRIZIONE DEL CORPO UMANO
 
