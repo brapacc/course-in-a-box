@@ -33,7 +33,8 @@ Con questo quadro Mantegna cambiò il linguaggio dell'arte, ed ebbe una grande i
 
 **Descrizione dei personaggi**
 
-- Riempi il testo con le parole mancanti 
+- Completa il testo inserendo al post giusto le parole date.
+
 
 
 La scena è all'interno del Santo Sepolcro. 
