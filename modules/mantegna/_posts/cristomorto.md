@@ -36,7 +36,7 @@ Con questo quadro Mantegna cambiò il linguaggio dell'arte, ed ebbe una grande i
 - Riempi il testo con le parole mancanti 
 
 
-La scena è all'interno del **sepolcro**. 
+La scena è all'interno del Santo Sepolcro. 
 Il corpo senza vita di Gesù Cristo si trova sopra un piano di **marmo**.
 Vicino a lui ci sono un uomo e due donne.
 Il corpo di Cristo occupa la maggior parte della **tela**. 
