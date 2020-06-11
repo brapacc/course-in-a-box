@@ -34,26 +34,26 @@ Con questo quadro Mantegna cambiò il linguaggio dell'arte, ed ebbe una grande i
 **Descrizione dei personaggi**
 
 - Completa il testo inserendo al post giusto le parole date.
-
+<iframe src="https://learningapps.org/watch?v=pqt1q6o9320" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
 La scena è all'interno del Santo Sepolcro. 
 Il corpo senza vita di Gesù Cristo si trova sopra un piano di **marmo**.
 Vicino a lui ci sono un uomo e due donne.
-Il corpo di Cristo occupa la maggior parte della **tela**. 
+Il corpo di Cristo occupa la maggior parte del **quadro**. 
 
 In basso e al centro della tela, i piedi di Cristo sporgono verso di noi. 
 Sui piedi vediamo i segni lasciati dai chiodi.
-Le gambe, dritte e parallele, sono coperte da un **lenzuolo** bianco che arriva fino al **bacino**. 
+Le gambe, dritte e parallele, sono coperte da un **lenzuolo** bianco che arriva fino al bacino. 
 Gli **avambracci** e le mani di Cristo sono appoggiati inerti sopra il lenzuolo. 
 Le mani, con i **palmi** rivolti verso il basso, sono semichiuse. 
-Le **nocche** delle mani sono appaggiote sul lenzuolo. 
-Anche sul **dorso** delle mani si vedono i fori lasciati dai chiodi nella carne. 
+Le **nocche** delle mani sono appaggiate sopra il lenzuolo. 
+Anche sul **dorso** delle mani si vedono i fori lasciati dai chiodi. 
 I gomiti sono leggermente piegati.
 
 Infine, nella parte più alta e centrale del dipinto c'è la **testa**.
 La testa è inclinata verso destra.
-Gesù Cristo ha occhi e **labbra** chiusi.
+Gesù Cristo ha le **labbra** e gli occhi chiusi.
 La **barba** e i **baffi** sono appena accennati.
 Lunghi capelli scuri e mossi circondano il viso di Cristo. 
 
