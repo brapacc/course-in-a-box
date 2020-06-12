@@ -7,7 +7,7 @@ title: Cristo Morto
 <img src="{{site.baseurl}}/img/cristomorto.png" 
 width="340" height="136">
 
-____________
+___________
 
 - **Rispondi alle domande**
 
