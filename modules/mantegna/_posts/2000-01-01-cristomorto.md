@@ -4,11 +4,11 @@ title: Cristo Morto
 
 # Cristo Morto nel sepolcro e tre dolenti 
 
+___________
+
 <img src="{{site.baseurl}}/img/cristomorto.png" 
 width="340" height="136">
 
-<img src="{{site.baseurl}}/img/portrait.png" 
-width="605" height="365">
 ___________
 
 - **Rispondi alle domande**
@@ -80,14 +80,15 @@ __________
 **ARTI SUPERIORI**
 [ARTI](https://www.bikeitalia.it/wp-content/uploads/2015/12/Braccio_2.jpg)
 
-### Cristo morto nella storia dell'arte
+## Cristo morto nella storia dell'arte
 
-Con questo quadro Mantegna cambiò il linguaggio dell'arte, utilizzando in modo originale lo scorco ed ebbe una grande influenza sugli artisti successivi.
+Con questo quadro Mantegna cambiò il linguaggio dell'arte, utilizzando in modo originale lo scorcio che ebbe una grande influenza sugli artisti successivi.
 
 https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing
 
 **Risorse**
 [Testo - descrizione](https://pinacotecabrera.org/wp-content/uploads/2019/04/SALA-6-Il-Cristo-Morto-di-Mantegna-DescriVedendo-TESTO.pdf) 
+
 [Audio - descrizione](https://pinacotecabrera.org/educazione/descrivedendo-brera/)
 
 [Cristo morto nell'arte](https://www.finestresullarte.info/947n_andrea-mantegna-cristo-morto-pinacoteca-di-brera.php)
