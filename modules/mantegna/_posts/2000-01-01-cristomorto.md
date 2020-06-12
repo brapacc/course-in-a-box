@@ -84,7 +84,9 @@ __________
 
 Con questo quadro Mantegna cambiò il linguaggio dell'arte, utilizzando in modo originale lo scorcio che ebbe una grande influenza sugli artisti successivi.
 
-https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing
+<iframe src="https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing" frameborder="0" allow="" style="width:100%;height:604px;display:block;padding:0;margin:0"></iframe>
+
+![Cristo morto nell'arte](https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing)
 
 **Risorse**
 [Testo - descrizione](https://pinacotecabrera.org/wp-content/uploads/2019/04/SALA-6-Il-Cristo-Morto-di-Mantegna-DescriVedendo-TESTO.pdf) 
