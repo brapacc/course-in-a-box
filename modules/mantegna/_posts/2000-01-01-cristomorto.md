@@ -31,7 +31,6 @@ ____________
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/The_dead_Christ_and_three_mourners%2C_by_Andrea_Mantegna.jpg" 
 width="500" height="414">
 
-Con questo quadro Mantegna cambiò il linguaggio dell'arte, ed ebbe una grande influenza sugli artisti successivi.
 
 **Leggi attentamente la descrizione dei personaggi**
 
@@ -73,14 +72,22 @@ La sua bocca è aperta ed ha un’espressione di **dolore**.
 
 __________
 
-## DESCRIZIONE DEL CORPO UMANO
+#### DESCRIZIONE DEL CORPO UMANO
 
-### LA MANO
-!(MANO)[https://66.media.tumblr.com/d039c0a9bdf8a8800aa92ad2841e33fb/tumblr_nxkiatVXYR1qzaax0o1_640.jpg]
+**LA MANO**
+[MANO](https://66.media.tumblr.com/d039c0a9bdf8a8800aa92ad2841e33fb/tumblr_nxkiatVXYR1qzaax0o1_640.jpg)
 
-### ARTI SUPERIORI
-!(aRTI)[https://www.bikeitalia.it/wp-content/uploads/2015/12/Braccio_2.jpg]
+**ARTI SUPERIORI**
+[ARTI](https://www.bikeitalia.it/wp-content/uploads/2015/12/Braccio_2.jpg)
 
+### Cristo morto nella storia dell'arte
+
+Con questo quadro Mantegna cambiò il linguaggio dell'arte, utilizzando in modo originale lo scorco ed ebbe una grande influenza sugli artisti successivi.
+
+https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing
 
 **Risorse**
-(Testo)[https://pinacotecabrera.org/wp-content/uploads/2019/04/SALA-6-Il-Cristo-Morto-di-Mantegna-DescriVedendo-TESTO.pdf] (audio)[https://pinacotecabrera.org/educazione/descrivedendo-brera/]
+[Testo - descrizione](https://pinacotecabrera.org/wp-content/uploads/2019/04/SALA-6-Il-Cristo-Morto-di-Mantegna-DescriVedendo-TESTO.pdf) 
+[Audio - descrizione](https://pinacotecabrera.org/educazione/descrivedendo-brera/)
+
+[Cristo morto nell'arte](https://www.finestresullarte.info/947n_andrea-mantegna-cristo-morto-pinacoteca-di-brera.php)
