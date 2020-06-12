@@ -86,6 +86,8 @@ Con questo quadro Mantegna cambiò il linguaggio dell'arte, utilizzando in modo 
 
 <iframe src="https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing" frameborder="0" allow="" style="width:100%;height:604px;display:block;padding:0;margin:0"></iframe>
 
+<iframe src="https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 ![Cristo morto nell'arte](https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing)
 
 **Risorse**
