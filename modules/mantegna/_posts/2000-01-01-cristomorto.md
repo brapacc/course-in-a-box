@@ -89,6 +89,7 @@ Con questo quadro Mantegna cambiò il linguaggio dell'arte, utilizzando in modo 
 ![Cristo morto nell'arte](https://jamboard.google.com/d/17vh82B_6TCe_xAubIBm4eRWS5Fd5LgqRhvP-81lXTAA/edit?usp=sharing)
 
 **Risorse**
+
 [Testo - descrizione](https://pinacotecabrera.org/wp-content/uploads/2019/04/SALA-6-Il-Cristo-Morto-di-Mantegna-DescriVedendo-TESTO.pdf) 
 
 [Audio - descrizione](https://pinacotecabrera.org/educazione/descrivedendo-brera/)
