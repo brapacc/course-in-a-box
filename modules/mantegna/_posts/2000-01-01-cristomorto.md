@@ -4,11 +4,8 @@ title: Cristo Morto
 
 # Cristo Morto nel sepolcro e tre dolenti 
 
-Autore   | 	Andrea Mantegna | 
-Data  |	1475-1478 circa | 
-Tecnica   |	tempera su tela | 
-Dimensioni   |	68×81 cm | 
-Ubicazione   |	Pinacoteca di Brera, Milan | 
+<img src="{{site.baseurl}}/img/cristomorto.png" 
+width="340" height="136">
 
 ____________
 
