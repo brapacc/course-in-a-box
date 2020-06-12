@@ -26,7 +26,7 @@ Giorgio Vasari, nelle sue ''Vite de' piu' eccellenti architetti, pittori et scul
 
 Gaetano Sabatelli, Cimabue e Giotto, 1846
 
-<img src="http://canespastorales.it/wp-content/uploads/2018/11/giottopecore.jpg" 
+<img src="https://www.meisterdrucke.uk/kunstwerke/500px/Gaetano%20Sabatelli%20-%20Cimabue%20and%20Giotto%20-%20%28MeisterDrucke-639445%29.jpg" 
 width="300" height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Gaetano_Sabatelli_Cimabue_e_Giotto.jpg" 
 width="300" height="200">  
 
