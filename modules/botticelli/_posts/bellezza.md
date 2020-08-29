@@ -1,1 +1,44 @@
 
+---
+title: La Bellezza
+---
+# La Bellezza
+
+### San Tommaso «belle sono le cose che viste piacciono» .
+
+La bellezza è un concetto astratto ma ci pone tante domande.
+- Qual è la definizione di bellezza?
+- Esistano parametri universali della bellezza?
+- La bellezza è un’esperienza soggettiva?
+- Quali sensi sono coinvolti nell'esperienza della bellezza? 
+- È possibile addestrare la mente a vedere una cosa come bella?
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/390px-The_Scream.jpg
+https://sciencecue.it/wp-content/uploads/2019/11/Cattura-1-e1574955944771.png
+
+
+Per i Greci, il canone di Bellezza stabiliva che il corpo umano per essere perfetto doveva oltrepassare di sette
+volte e mezzo la misura della testa, mentre in quella di Lisippo, doveva
+oltrepassare otto volte e mezzo la misura del corpo. 
+Gli artisti Greci erano guidati dal concetto di proporzione.
+
+Il binomio Matematica-Bellezza fu ripreso secoli dopo da Leonardo da Vinci, che con il disegno dell'Uomo di Vitruvio, stabilì le regole matematiche per definire la Bellezza ideale, disegnando un corpo che rispondeva a regole matematiche ottenute partendo dalla divisione
+del volto per il numero aureo 1.618. 
+Queste proporzioni matematiche sono i modelli matematici con i quali la Natura cresce
+sviluppa
+
+![vitruvio](https://upload.wikimedia.org/wikipedia/commons/7/7a/Leonardo_da_Vinci_-_Uomo_vitruviano.jpg)
+
+Per Agostino Nifo, la Bellezza perfetta doveva rispondere a cinque elementi in
+correlazione con i cinque sensi:
+La forma con la vista, l'armonia in correlazione con l'udito, la soavità con il gusto, la dolcezza con l'olfatto il biancore con il tatto. 
+Nel Rinascimento la bellezza era considerata garanzia
+di virtù morale e fonte di ispirazione dei poeti e degli artisti.
+
+### Riferimenti:
+http://www.australasianscience.com.au/article/issue-june-2014/brain-beholder-neuroscience-beauty.html
+http://www.demetra.org/media/Documenti/la%20bellezza.pdf
+http://ilmondodiaura.altervista.org/RINASCIMENTO/BELLEZZA.htm
+
+
