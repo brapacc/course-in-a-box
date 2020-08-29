@@ -27,14 +27,15 @@ Il binomio Matematica-Bellezza fu ripreso secoli dopo da Leonardo da Vinci, che 
 del volto per il numero aureo 1.618. 
 Queste proporzioni matematiche sono i modelli matematici con i quali la Natura cresce
 sviluppa
-
-![vitruvio](https://upload.wikimedia.org/wikipedia/commons/7/7a/Leonardo_da_Vinci_-_Uomo_vitruviano.jpg)
-
 Per Agostino Nifo, la Bellezza perfetta doveva rispondere a cinque elementi in
 correlazione con i cinque sensi:
 La forma con la vista, l'armonia in correlazione con l'udito, la soavità con il gusto, la dolcezza con l'olfatto il biancore con il tatto. 
 Nel Rinascimento la bellezza era considerata garanzia
 di virtù morale e fonte di ispirazione dei poeti e degli artisti.
+
+![vitruvio](https://upload.wikimedia.org/wikipedia/commons/7/7a/Leonardo_da_Vinci_-_Uomo_vitruviano.jpg)
+
+
 
 ### Riferimenti:
 http://www.australasianscience.com.au/article/issue-june-2014/brain-beholder-neuroscience-beauty.html
